@@ -5,7 +5,7 @@ from PIL import Image
 load_css()
 
 col1, col2, col3 = st.columns(3)
-col2.image(Image.open('dp.png')) # change/upload profile picture 
+col2.image(Image.open('PHOTO-2021-07-16-08-22-39 2.jpeg')) # change/upload profile picture 
 
 st.header('Leo_Livs')
 
