@@ -13,7 +13,7 @@ st.info('DJ, General Contractor, Real Estate Investor, Python Developer')
 
 icon_size = 20
 
-# st_button('medium', 'https://data-professor.medium.com/', 'Read my Blogs', icon_size)
+st_button('github', 'https://github.com/LeoLivs, 'Check Out my Github', icon_size)
 st_button('twitter', 'https://twitter.com/Leo_livs/', 'Follow me on Twitter', icon_size)
 st_button('linkedin', 'https://www.linkedin.com/in/leonel-lopez-9b64a2172', 'Follow me on LinkedIn', icon_size)
 # st_button('cup', 'https://www.buymeacoffee.com/dataprofessor/', 'Buy me a Coffee', icon_size)
